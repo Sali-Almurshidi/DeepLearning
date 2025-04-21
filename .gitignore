@@ -1,0 +1,16 @@
+Face_Recognition/
+.
+*.pyc
+*.pyo
+__pycache__/
+*.pkl
+*.h5
+.ipynb_checkpoints/
+venv/
+.env/
+*.log
+.vscode/
+.idea/
+.DS_Store
+*.tmp
+*.swp
